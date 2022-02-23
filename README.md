@@ -1,5 +1,5 @@
 # qhack_2022
-open Hackaton project
+## Open Hackaton project
 
 This repo contains my project in the qhack_2022. 
 
