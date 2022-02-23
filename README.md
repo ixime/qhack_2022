@@ -9,7 +9,7 @@ Explore quantum approaches for dynamic bayesian network structure learning (DBNS
 
 ### Intro
 
-DBNSL's main goal is to obtain P(G|D), that means obtaining a direct acyclic graph (DAG) given a dataset consisiting of at least two events or moments in time. This solution can be apply to solve problems in different fields, like finance, biology and ecology to name a few. This kind of problem is super-exponential (O(n! 2^(n!/(2!(n-2)!)))) [1] due to a search over all DAGs possible. I reviewed different approaches, and I decided to implement three different approaches:
+DBNSL's main goal is to obtain P(G|D), that means obtaining a direct acyclic graph (DAG) given a dataset consisiting of at least two events or moments in time. This solution can be applied to solve problems in different fields, like finance, biology and ecology to name a few. This kind of problem is super-exponential (O(n! 2^(n!/(2!(n-2)!)))) [1] due to a search over all DAGs possible. I reviewed different approaches, and I decided to implement three different approaches:
 
    - Hybrid network = (classic) encoder + (quantum) circuit.
    - Variational circuit
