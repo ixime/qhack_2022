@@ -5,7 +5,7 @@ This repo contains my project in the qhack_2022.
 
 ### Goal
 
-Explore quantum approaches for dynamic bayesian network structure learning (DBNSL) with generated data and real data.  
+Explore quantum approaches for dynamic bayesian network structure learning (DBNSL) with generated data and real data [2].  
 
 ### Intro
 
@@ -20,3 +20,5 @@ The first step is to implement these approaches with a tiny dummy dataset of 4 v
 ### References:
 
 [1] Prashant S. Emani1, et al, Quantum Computing at the Frontiers of Biological Sciences
+
+[2] [Spellman PT, Sherlock G, et al, Comprehensive identification of cell cycle-regulated genes of the yeast Saccharomyces cerevisiae by microarray hybridization](https://www.ebi.ac.uk/biostudies/studies/S-EPMC25624)
